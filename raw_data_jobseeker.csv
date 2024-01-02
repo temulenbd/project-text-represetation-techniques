@@ -1,5 +1,5 @@
 ﻿participant,data_collection,date,location,preferred_position,education,skill,experience
-user_1,Voice Call,2023-12-17T15:30:00.000000,"Dublin, Ireland",Registered nurse,Graduate diploma: Critical care nursing,"patient care
+user_1,Voice Call,12/17/2023 15:30,"Dublin, Ireland",Registered nurse,Bachelor's degree: Critical care nursing,"patient care
 wound care
 medical procedures
 adult nursing
@@ -7,8 +7,8 @@ infection control
 diagnostic 
 time management
 communication skills
-attention to detail",Registered Nurse – 3 years
-user_2,Voice Call,2023-12-27T11:50:00.000000,"Dublin, Ireland",Electrician,"•	High school diploma
+attention to detail",Registered Nurse: 3 years
+user_2,Voice Call,12/27/2023 11:50,"Dublin, Ireland",Electrician,"•	High school diploma
 •	Vocational electrician certification
 •	Construction safety certification ","•	Circuit testing
 •	Blueprint reading
@@ -21,10 +21,10 @@ user_2,Voice Call,2023-12-27T11:50:00.000000,"Dublin, Ireland",Electrician,"•	
 •	Maintenance 
 •	Diagnostic
 •	Independent worker
-•	Safety knowledge",Residential Electrician's Helper 1 year
-user_3,Google Form,2023-12-31T13:39:00.000000,"Dublin, Ireland",Data analyst,"Degree:
+•	Safety knowledge",Residential Electrician's Helper: 1 year
+user_3,Google Form,12/31/2023 13:39,"Dublin, Ireland",Data analyst,"Degree:
 1. Master of Science in Data Analytics
-2. Bachelor of Science in BA
+2. Bachelor of Science in Business Administration
 Certifications:
 1. Microsoft Certified - Azure Data Scientist Associate
 2. Google Data Analytics Certificate","1. Python
