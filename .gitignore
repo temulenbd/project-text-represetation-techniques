@@ -85,3 +85,5 @@ data_jobads_final.csv
 ft_bert_temuulen/runs/Feb05_13-22-50_temulenbd-pc/events.out.tfevents.1707139373.temulenbd-pc.13224.0
 ft_bert_temuulen/runs/Feb05_13-24-15_temulenbd-pc/events.out.tfevents.1707139458.temulenbd-pc.21356.0
 data_jobads_final.csv
+ft_bert_temuulen/runs/Feb06_21-26-17_temulenbd-pc/events.out.tfevents.1707254777.temulenbd-pc.9268.0
+ft_bert_temuulen/runs/Feb06_21-29-22_temulenbd-pc/events.out.tfevents.1707254962.temulenbd-pc.15060.0
