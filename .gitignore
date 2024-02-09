@@ -90,3 +90,8 @@ ft_bert_temuulen/runs/Feb06_21-29-22_temulenbd-pc/events.out.tfevents.1707254962
 benchmark_test.csv
 benchmark_train.csv
 ft_word2vec_temuulen
+GoogleNews-vectors-negative300.bin
+ag_news_test.txt
+ag_news_train.txt
+cosine-bert
+cosine-bert.csv
