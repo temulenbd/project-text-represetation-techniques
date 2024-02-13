@@ -95,3 +95,4 @@ ag_news_test.txt
 ag_news_train.txt
 cosine-bert
 cosine-bert.csv
+cosine-tfidf.csv
