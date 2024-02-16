@@ -185,3 +185,12 @@ cosine_bert.csv
 cosine_tfidf.csv
 cosine_word2vec.csv
 cosine-word2vec.csv
+data_jobads_da_20jan.csv
+data_jobads_da.csv
+data_jobads_e_20jan.csv
+data_jobads_e.csv
+data_jobads_final.csv
+data_jobads_rn_20jan.csv
+data_jobads_rn.csv
+data_jobseeker.csv
+raw_data_jobseeker.csv
