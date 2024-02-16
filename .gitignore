@@ -211,3 +211,15 @@ report 1/cosine.docx
 report 1/nlp.docx
 report 1/sampling strategy.docx
 report 1/titles.docx
+cosine_user1.csv
+cosine_user2.csv
+cosine_user3.csv
+user_1_bert_evaluation.csv
+user_1_tfidf_evaluation.csv
+user_1_word2vec_evaluation.csv
+user_2_bert_evaluation.csv
+user_2_tfidf_evaluation.csv
+user_2_word2vec_evaluation.csv
+user_3_bert_evaluation.csv
+user_3_tfidf_evaluation.csv
+user_3_word2vec_evaluation.csv
