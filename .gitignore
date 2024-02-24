@@ -223,3 +223,4 @@ user_2_word2vec_evaluation.csv
 user_3_bert_evaluation.csv
 user_3_tfidf_evaluation.csv
 user_3_word2vec_evaluation.csv
+ft_bert_temuulen/runs/Feb23_13-35-51_temulenbd-pc/events.out.tfevents.1708695356.temulenbd-pc.27848.0
