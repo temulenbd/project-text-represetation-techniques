@@ -1,7 +1,5 @@
 _Project Author:_ **Temuulen Bulgan**
 
-_Project Supervisor:_ **Kislay Raj**
-
 _Topic:_ **A Comparative Evaluation of Text Representation Techniques for Content-Based Job Recommendation System**
 
 _Summary:_ To address the challenge of information overload in human resources management, I immersed myself in the domain of Job Recommendation Systems (JRS). This endeavor involved meticulously studying and analyzing almost 300 research papers in the field of Recommendation Systems (RS). Through this extensive review, I identified a gap in the literature regarding the use of text representation techniques within JRS. Specifically, I observed a lack of comprehensive assessments and comparisons of the outcomes produced by JRSs that employ both traditional and innovative text representation methods. This research is addressed to sought this gap by conducting experiments involving real-world participants.
